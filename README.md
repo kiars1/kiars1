@@ -17,14 +17,15 @@
 
 ### 📝 Статистика:
 <div class="BorderGrid-row">
-            <div class="BorderGrid-cell">
-              <h2 class="h4 mb-3">Languages</h2>
-<div class="mb-2">
-  <span data-view-component="true" class="Progress">
+<div class="BorderGrid-cell">
+<h2 class="h4 mb-3">Languages</h2>
+  <div class="mb-2">
+    <span data-view-component="true" class="Progress">
     <span style="background-color:#e34c26 !important;;width: 57.1%;" itemprop="keywords" aria-label="HTML 57.1" data-view-component="true" class="Progress-item color-bg-success-inverse"></span>
     <span style="background-color:#563d7c !important;;width: 40.2%;" itemprop="keywords" aria-label="CSS 40.2" data-view-component="true" class="Progress-item color-bg-success-inverse"></span>
     <span style="background-color:#f1e05a !important;;width: 2.7%;" itemprop="keywords" aria-label="JavaScript 2.7" data-view-component="true" class="Progress-item color-bg-success-inverse"></span>
-</span></div>
+</span>
+  </div>
 <ul class="list-style-none">
     <li class="d-inline">
       <a class="d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3" href="/kiars1/kiars1.github.io/search?l=html" data-ga-click="Repository, language stats search click, location:repo overview">
@@ -54,6 +55,5 @@
       </a>
     </li>
 </ul>
-
-            </div>
-          </div>
+</div>
+</div>
