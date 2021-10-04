@@ -16,10 +16,6 @@
 </div>
 
 ### 📝 Статистика:
- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 <div>
- 
-    <div width="57" height="20" color="red"></div>
-    <div></div>
-    <div></div>
+    <img src="https://github.com/kiars1/kiars1/blob/9d1a70309837de223fd7f20b1c5d7ee74ab3ac7c/Stat.png" width="20" title="Stat">
 </div>
