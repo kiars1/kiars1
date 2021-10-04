@@ -16,6 +16,9 @@
 </div>
 
 ### 📝 Статистика:
+<div class="BorderGrid-row">
+            <div class="BorderGrid-cell">
+              <h2 class="h4 mb-3">Languages</h2>
 <div class="mb-2">
   <span data-view-component="true" class="Progress">
     <span style="background-color:#e34c26 !important;;width: 57.1%;" itemprop="keywords" aria-label="HTML 57.1" data-view-component="true" class="Progress-item color-bg-success-inverse"></span>
@@ -53,17 +56,4 @@
 </ul>
 
             </div>
-<!--
-**kiars1/kiars1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          </div>
