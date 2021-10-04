@@ -17,7 +17,7 @@
 
 ### 📝 Статистика:
 <div>
-    <div width="57" width="20" color="red"></div>
+    <div width="57" height="20" color="red"></div>
     <div></div>
     <div></div>
 </div>
