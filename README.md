@@ -16,7 +16,7 @@
 </div>
 
 ### 📝 Статистика:
- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)123123 `#f03c15`
+ ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 <div>
  
     <div width="57" height="20" color="red"></div>
