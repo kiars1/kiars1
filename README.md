@@ -17,7 +17,7 @@
 
 ### 📝 Статистика:
 <div>
-    <div width="57" width="20" background-color="#e34c26" style="background-color:#e34c26; width: 57; height: 25" aria-label="HTML 57.1"></div>
+    <div width="57" width="20" color="#e34c26" style="background-color:#e34c26; width: 57; height: 25" aria-label="HTML 57.1"></div>
     <div style="background-color:#563d7c; width: 40; height: 25" aria-label="CSS 40.2" data-view-component="true"></div>
     <div style="background-color:#f1e05a; width: 2; height: 25" aria-label="JavaScript 2.7" data-view-component="true"></div>
 </div>
