@@ -23,5 +23,5 @@
 
 ### 📝 Моя Статистика:
 <div>
-    <img src="https://github.com/kiars1/kiars1/blob/9d1a70309837de223fd7f20b1c5d7ee74ab3ac7c/Stat.png" width="1000" title="Stat">
+    <img src="https://github.com/kiars1/kiars1/blob/b303d06ccaedb6a4b9d95995655d4c309747b08f/Stat.png" width="1000" title="Stat">
 </div>
