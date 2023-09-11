@@ -16,7 +16,7 @@
    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/album.png" max-width="1000">
 
 ## 🛠️ Мой стэк и инструментарий
-<pre>
+<pre align="center">
   <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/html.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/css.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/js.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/react.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/vscode.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/git.png" width="30">    <img src="https://raw.githubusercontent.com/kiars1/kiars1/main/image/figma.png" width="30">
 </pre>
 
